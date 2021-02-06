@@ -1,7 +1,7 @@
 # JavaScript Music Player
 
 ## Music player interface where a user can play, pause, skip, rewind, and scrub through a song.
-## [Website](https://melanyss.github.io/covid19-Tracker/)
+## [Website](https://melanyss.github.io/music-player/)
 
 ## Author
 
